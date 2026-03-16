@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<title>北伦敦24H</title>
+<description>每日阿森纳足球俱乐部新闻播客</description>
+<language>zh-cn</language>
+<itunes:author>小舞</itunes:author>
+<itunes:image href="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/cover.jpg"></itunes:image>
+<item>
+<title>北伦敦24H（3月16日）</title>
+<description>道曼创造历史！</description>
+<enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/podcast/2026-03-16_083000.mp3" type="audio/mpeg"/>
+<itunes:duration>5:00</itunes:duration>
+</item>
+<item>
+<title>北伦敦24H（3月15日）</title>
+<description>测试版</description>
+<enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/podcast/2026-03-15_222329.mp3" type="audio/mpeg"/>
+<itunes:duration>5:00</itunes:duration>
+</item>
+</channel>
+</rss>
