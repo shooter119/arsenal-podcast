@@ -1,22 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>北伦敦24H</title>
-<description>每日阿森纳足球俱乐部新闻播客</description>
+<description>每日阿森纳足球俱乐部新闻深度分析播客</description>
+<link>https://shooter119.github.io/arsenal-podcast/</link>
 <language>zh-cn</language>
 <itunes:author>小舞</itunes:author>
-<itunes:image href="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/cover.jpg"></itunes:image>
+<itunes:owner>
+<itunes:name>小舞</itunes:name>
+</itunes:owner>
+<itunes:image href="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/cover.jpg"/>
+<atom:link href="https://shooter119.github.io/arsenal-podcast/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>北伦敦24H（3月16日）</title>
-<description>道曼创造历史！</description>
-<enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/podcast/2026-03-16_083000.mp3" type="audio/mpeg"/>
+<description>道曼创造历史！英超最年轻进球者诞生！</description>
+<enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/podcast/2026-03-16_083000.mp3" type="audio/mpeg" length="749664"/>
 <itunes:duration>5:00</itunes:duration>
+<pubDate>Mon, 16 Mar 2026 08:00:00 GMT</pubDate>
 </item>
 <item>
 <title>北伦敦24H（3月15日）</title>
 <description>测试版</description>
-<enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/podcast/2026-03-15_222329.mp3" type="audio/mpeg"/>
+<enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/podcast/2026-03-15_222329.mp3" type="audio/mpeg" length="0"/>
 <itunes:duration>5:00</itunes:duration>
+<pubDate>Sun, 15 Mar 2026 22:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
