@@ -25,5 +25,12 @@
 <itunes:duration>5:00</itunes:duration>
 <pubDate>Sun, 15 Mar 2026 22:00:00 GMT</pubDate>
 </item>
+<item>
+<title>北伦敦24H（3月17日）</title>
+<description>伤情更新：Trossard复出，Odegaard/Timber缺阵。Calafiori：赛季最佳时刻。欧冠前瞻。</description>
+<enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/podcast/2026-03-17_035720.mp3" type="audio/mpeg" length="0"/>
+<itunes:duration>5:00</itunes:duration>
+<pubDate>Tue, 17 Mar 2026 04:00:00 GMT</pubDate>
+</item>
 </channel>
 </rss>
