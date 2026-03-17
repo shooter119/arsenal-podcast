@@ -32,5 +32,12 @@
 <itunes:duration>5:00</itunes:duration>
 <pubDate>Tue, 17 Mar 2026 04:00:00 GMT</pubDate>
 </item>
+<item>
+<title>北伦敦24H（3月17日）v2</title>
+<description>伤情更新：Dowman创造历史！欧冠前瞻</description>
+<enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/podcast/2026-03-17_065305.mp3" type="audio/mpeg" length="0"/>
+<itunes:duration>8:00</itunes:duration>
+<pubDate>Tue, 17 Mar 2026 07:00:00 GMT</pubDate>
+</item>
 </channel>
 </rss>
