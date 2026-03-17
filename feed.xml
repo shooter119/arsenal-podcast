@@ -12,39 +12,11 @@
 <itunes:image href="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/Gemini_Generated_Image_ogdtpvogdtpvogdt.png"/>
 <atom:link href="https://shooter119.github.io/arsenal-podcast/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>北伦敦24H（3月16日）</title>
-<description>道曼创造历史！英超最年轻进球者诞生！</description>
-<enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/podcast/2026-03-16_083000.mp3" type="audio/mpeg" length="749664"/>
-<itunes:duration>5:00</itunes:duration>
-<pubDate>Mon, 16 Mar 2026 08:00:00 GMT</pubDate>
-</item>
-<item>
-<title>北伦敦24H（3月15日）</title>
-<description>测试版</description>
-<enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/podcast/2026-03-15_222329.mp3" type="audio/mpeg" length="0"/>
-<itunes:duration>5:00</itunes:duration>
-<pubDate>Sun, 15 Mar 2026 22:00:00 GMT</pubDate>
-</item>
-<item>
-<title>北伦敦24H（3月17日）</title>
-<description>伤情更新：Trossard复出，Odegaard/Timber缺阵。Calafiori：赛季最佳时刻。欧冠前瞻。</description>
-<enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/podcast/2026-03-17_035720.mp3" type="audio/mpeg" length="0"/>
-<itunes:duration>5:00</itunes:duration>
-<pubDate>Tue, 17 Mar 2026 04:00:00 GMT</pubDate>
-</item>
-<item>
-<title>北伦敦24H（3月17日）v2</title>
-<description>伤情更新：Dowman创造历史！欧冠前瞻</description>
-<enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/podcast/2026-03-17_065305.mp3" type="audio/mpeg" length="0"/>
-<itunes:duration>8:00</itunes:duration>
-<pubDate>Tue, 17 Mar 2026 07:00:00 GMT</pubDate>
-</item>
-<item>
-<title>北伦敦24小时（3月17日）v3</title>
+<title>北伦敦24小时（3月17日）v4</title>
 <description>Max Dowman创造历史！16岁成为英超最年轻进球者！</description>
-<enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/podcast/2026-03-17_080538.mp3" type="audio/mpeg" length="0"/>
-<itunes:duration>8:00</itunes:duration>
-<pubDate>Tue, 17 Mar 2026 08:00:00 GMT</pubDate>
+<enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/podcast/2026-03-17_081359.mp3" type="audio/mpeg" length="0"/>
+<itunes:duration>10:00</itunes:duration>
+<pubDate>Tue, 17 Mar 2026 08:15:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
