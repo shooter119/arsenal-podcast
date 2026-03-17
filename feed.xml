@@ -16,19 +16,5 @@
 <itunes:duration>10:00</itunes:duration>
 <pubDate>Tue, 17 Mar 2026 08:20:00 GMT</pubDate>
 </item>
-<item>
-<title>北伦敦24H（3月16日）</title>
-<description>道曼创造历史！英超最年轻进球者诞生！</description>
-<enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/podcast/2026-03-16_083000.mp3" type="audio/mpeg" length="0"/>
-<itunes:duration>5:00</itunes:duration>
-<pubDate>Mon, 16 Mar 2026 08:00:00 GMT</pubDate>
-</item>
-<item>
-<title>北伦敦24H（3月15日）</title>
-<description>测试版</description>
-<enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/podcast/2026-03-15_222329.mp3" type="audio/mpeg" length="0"/>
-<itunes:duration>5:00</itunes:duration>
-<pubDate>Sun, 15 Mar 2026 22:00:00 GMT</pubDate>
-</item>
 </channel>
 </rss>
