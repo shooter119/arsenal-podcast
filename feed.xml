@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>北伦敦24H</title>
+<title>北伦敦24小时</title>
 <description>每日阿森纳足球俱乐部新闻深度分析播客</description>
 <link>https://shooter119.github.io/arsenal-podcast/</link>
 <language>zh-cn</language>
@@ -10,55 +10,22 @@
 <itunes:image href="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/Gemini_Generated_Image_ogdtpvogdtpvogdt.png"/>
 <atom:link href="https://shooter119.github.io/arsenal-podcast/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>北伦敦24小时（3月17日）v5</title>
-<description>Max Dowman创造历史！16岁成为英超最年轻进球者！</description>
-<enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/podcast/2026-03-17_081634.mp3" type="audio/mpeg" length="0"/>
-<itunes:duration>10:00</itunes:duration>
-<pubDate>Tue, 17 Mar 2026 08:20:00 GMT</pubDate>
-</item>
-<item>
-<title>北伦敦24H（3月16日）</title>
-<description>道曼创造历史！英超最年轻进球者诞生！</description>
-<enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/podcast/2026-03-16_083000.mp3" type="audio/mpeg" length="0"/>
-<itunes:duration>5:00</itunes:duration>
-<pubDate>Mon, 16 Mar 2026 08:00:00 GMT</pubDate>
-</item>
-<item>
-<title>北伦敦24H（3月15日）</title>
-<description>测试版</description>
-<enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/podcast/2026-03-15_222329.mp3" type="audio/mpeg" length="0"/>
-<itunes:duration>5:00</itunes:duration>
-<pubDate>Sun, 15 Mar 2026 22:00:00 GMT</pubDate>
-</item>
-<item>
-<title>North London 24H (3/18)</title>
-<description>Arsenal beat Leverkusen 2-0, advance to quarter-finals</description>
-<enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/podcast/2026-03-18_002213.mp3" type="audio/mpeg"/>
-<pubDate>Wed, 18 Mar 2026 00:20:00 GMT</pubDate>
-</item>
-<item>
 <title>北伦敦24小时（3月18日）</title>
-<description>阿森纳2-0勒沃库森，晋级欧冠八强！</description>
-<enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/podcast/2026-03-18_002823.mp3" type="audio/mpeg"/>
-<pubDate>Wed, 18 Mar 2026 00:25:00 GMT</pubDate>
-</item>
-<item>
-<title>北伦敦24小时（3月18日）v2</title>
-<description>阿森纳2-0勒沃库森，晋级欧冠八强！Eze和Rice进球，Max Dowman创造历史！</description>
-<enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/podcast/2026-03-18_003227.mp3" type="audio/mpeg"/>
-<pubDate>Wed, 18 Mar 2026 00:35:00 GMT</pubDate>
-</item>
-<item>
-<title>North London 24H (3/18)</title>
-<description>Arsenal beat Leverkusen 2-0, advance to Champions League quarter-finals. Max Dowman history.</description>
-<enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/podcast/2026-03-18_003337.mp3" type="audio/mpeg"/>
-<pubDate>Wed, 18 Mar 2026 00:40:00 GMT</pubDate>
-</item>
-<item>
-<title>北伦敦24小时（3月18日）v3</title>
 <description>完整中文翻译版</description>
 <enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/podcast/2026-03-18_083236.mp3" type="audio/mpeg"/>
 <pubDate>Wed, 18 Mar 2026 08:35:00 GMT</pubDate>
+</item>
+<item>
+<title>北伦敦24小时（3月16日）</title>
+<description>道曼创造历史！英超最年轻进球者诞生！</description>
+<enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/podcast/2026-03-16_083000.mp3" type="audio/mpeg"/>
+<pubDate>Mon, 16 Mar 2026 08:00:00 GMT</pubDate>
+</item>
+<item>
+<title>北伦敦24小时（3月15日）</title>
+<description>测试版</description>
+<enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/podcast/2026-03-15_222329.mp3" type="audio/mpeg"/>
+<pubDate>Sun, 15 Mar 2026 22:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
