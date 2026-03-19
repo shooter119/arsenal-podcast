@@ -3,51 +3,48 @@
 <channel>
 <title>北伦敦24小时</title>
 <description>每日阿森纳足球俱乐部新闻深度分析播客</description>
-<link>https://shooter119.github.io/arsenal-podcast/</link>
+<link>https://shooter119.github.io/arsena-podcast/</link>
 <language>zh-cn</language>
 <itunes:author>萨卡</itunes:author>
 <itunes:owner><itunes:name>萨卡</itunes:name></itunes:owner>
-<itunes:image href="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/Gemini_Generated_Image_ogdtpvogdtpvogdt.png"/>
+<itunes:image href="https://raw.githubusercontent.com/shooter119/arsenal-podcast/saka/Gemini_Generated_Image_ogdtpvogdtpvogdt.png"/>
 <atom:link href="https://shooter119.github.io/arsenal-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-<item>
-<title>北伦敦24小时（3月18日）</title>
-<description>完整中文翻译版</description>
-<enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/podcast/2026-03-18_083236.mp3" type="audio/mpeg"/>
-<pubDate>Wed, 18 Mar 2026 08:35:00 GMT</pubDate>
-</item>
-<item>
-<title>北伦敦24小时（3月17日）</title>
-<description>Max Dowman创造历史！16岁成为英超最年轻进球者！</description>
-<enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/podcast/2026-03-17_081634.mp3" type="audio/mpeg"/>
-<pubDate>Tue, 17 Mar 2026 08:20:00 GMT</pubDate>
-</item>
-<item>
-<title>北伦敦24小时（3月16日）</title>
-<description>道曼创造历史！英超最年轻进球者诞生！</description>
-<enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/podcast/2026-03-16_083000.mp3" type="audio/mpeg"/>
-<pubDate>Mon, 16 Mar 2026 08:00:00 GMT</pubDate>
-</item>
-<item>
-<title>北伦敦24小时（3月15日）</title>
-<description>测试版</description>
-<enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/podcast/2026-03-15_222329.mp3" type="audio/mpeg"/>
-<pubDate>Sun, 15 Mar 2026 22:00:00 GMT</pubDate>
-</item>
-<item>
-<title>北伦敦24小时（3月19日）</title>
-<description><![CDATA[阿森纳最新资讯完整口播版：勒沃库森比赛分析、赖斯世界波、埃泽破门、VAR争议、多曼16岁纪录、曼城欧冠出局、联赛杯决赛前瞻]]></description>
-<enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/podcast/2026-03-19.mp3" type="audio/mpeg" length="11139645"/>
-<pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
-<itunes:duration>auto</itunes:duration>
-<guid isPermaLink="false">2026-03-19</guid>
-</item>
-<item>
-<title>北伦敦24小时（3月19日）</title>
-<description><![CDATA[阿森纳最新资讯完整口播版：赖斯世界波、埃泽破门、VAR争议、多曼16岁纪录、联赛杯决赛前瞻]]></description>
-<enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/podcast/2026-03-19.mp3" type="audio/mpeg" length="11139645"/>
-<pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
-<itunes:duration>auto</itunes:duration>
-<guid isPermaLink="false">2026-03-19</guid>
-</item>
+<itunes:category text="Sports"/>
+<itunes:explicit>false</itunes:explicit>
+    <item>
+        <title>北伦敦24小时（3月19日）</title>
+        <description><![CDATA[阿森纳最新资讯完整口播版]]></description>
+        <enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/saka/podcast/2026-03-19.mp3" type="audio/mpeg" length="0"/>
+        <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-03-19</guid>
+    </item>
+    <item>
+        <title>北伦敦24小时（3月18日）</title>
+        <description><![CDATA[完整中文翻译版]]></description>
+        <enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/saka/podcast/2026-03-18.mp3" type="audio/mpeg" length="0"/>
+        <pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-03-18</guid>
+    </item>
+    <item>
+        <title>北伦敦24小时（3月17日）</title>
+        <description><![CDATA[Max Dowman创造历史！16岁成为英超最年轻进球者！]]></description>
+        <enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/saka/podcast/2026-03-17.mp3" type="audio/mpeg" length="0"/>
+        <pubDate>Tue, 17 Mar 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-03-17</guid>
+    </item>
+    <item>
+        <title>北伦敦24小时（3月16日）</title>
+        <description><![CDATA[道曼创造历史！英超最年轻进球者诞生！]]></description>
+        <enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/saka/podcast/2026-03-16.mp3" type="audio/mpeg" length="0"/>
+        <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-03-16</guid>
+    </item>
+    <item>
+        <title>北伦敦24小时（3月15日）</title>
+        <description><![CDATA[每日阿森纳新闻摘要]]></description>
+        <enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/saka/podcast/2026-03-15.mp3" type="audio/mpeg" length="0"/>
+        <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">2026-03-15</guid>
+    </item>
 </channel>
 </rss>
