@@ -33,5 +33,13 @@
 <enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/podcast/2026-03-15_222329.mp3" type="audio/mpeg"/>
 <pubDate>Sun, 15 Mar 2026 22:00:00 GMT</pubDate>
 </item>
+<item>
+<title>北伦敦24小时（3月19日）</title>
+<description><![CDATA[阿森纳最新资讯完整口播版：勒沃库森比赛分析、赖斯世界波、埃泽破门、VAR争议、多曼16岁纪录、曼城欧冠出局、联赛杯决赛前瞻]]></description>
+<enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/main/podcast/2026-03-19.mp3" type="audio/mpeg" length="11139645"/>
+<pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
+<itunes:duration>auto</itunes:duration>
+<guid isPermaLink="false">2026-03-19</guid>
+</item>
 </channel>
 </rss>
