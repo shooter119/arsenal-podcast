@@ -79,5 +79,14 @@
         <itunes:duration>auto</itunes:duration>
         <guid isPermaLink="false">2026-03-22</guid>
         </item>
+        <item>
+        <title>北伦敦24小时（3月22日）</title>
+        <description><![CDATA[阿森纳联赛杯决赛0比2曼城，完整口播版]]></description>
+        <itunes:summary><![CDATA[阿森纳联赛杯决赛0比2曼城，完整口播版]]></itunes:summary>
+        <enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/saka/podcast/2026-03-22.mp3" type="audio/mpeg" length="3926973"/>
+        <pubDate>Sun, 22 Mar 2026 00:00:00 GMT</pubDate>
+        <itunes:duration>auto</itunes:duration>
+        <guid isPermaLink="false">2026-03-22</guid>
+        </item>
 </channel>
 </rss>
