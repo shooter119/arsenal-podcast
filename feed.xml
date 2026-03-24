@@ -88,5 +88,14 @@
         <itunes:duration>auto</itunes:duration>
         <guid isPermaLink="false">2026-03-22</guid>
         </item>
+        <item>
+        <title>北伦敦24小时（3月24日）</title>
+        <description><![CDATA[阿森纳0-2曼城痛失联赛杯，四将退出国家队，积分榜领先9分，欧冠八强静候葡萄牙体育]]></description>
+        <itunes:summary><![CDATA[阿森纳0-2曼城痛失联赛杯，四将退出国家队，积分榜领先9分，欧冠八强静候葡萄牙体育]]></itunes:summary>
+        <enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/saka/podcast/2026-03-24.mp3" type="audio/mpeg" length="5037645"/>
+        <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
+        <itunes:duration>auto</itunes:duration>
+        <guid isPermaLink="false">2026-03-24</guid>
+        </item>
 </channel>
 </rss>
