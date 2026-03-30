@@ -142,5 +142,14 @@
         <itunes:duration>auto</itunes:duration>
         <guid isPermaLink="false">2026-03-29</guid>
         </item>
+        <item>
+        <title>北伦敦24小时（3月30日）</title>
+        <description><![CDATA[阿森纳最新资讯完整口播版]]></description>
+        <itunes:summary><![CDATA[阿森纳最新资讯完整口播版]]></itunes:summary>
+        <enclosure url="https://raw.githubusercontent.com/shooter119/arsenal-podcast/saka/podcast/2026-03-30.mp3" type="audio/mpeg" length="5239245"/>
+        <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
+        <itunes:duration>auto</itunes:duration>
+        <guid isPermaLink="false">2026-03-30</guid>
+        </item>
 </channel>
 </rss>
